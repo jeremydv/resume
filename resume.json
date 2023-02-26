@@ -1,0 +1,108 @@
+{
+  "basics": {
+    "name": "Jérémy De Vuyst",
+    "label": "Software Engineer",
+    "email": "jeremy.devuyst@pm.me",
+    "phone": "+32497112009",
+    "location": {
+      "countryCode": "BE",
+      "city": "Brussels"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jeremy-de-vuyst",
+        "url": "https://www.linkedin.com/in/jeremy-de-vuyst/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nalys",
+      "position": "Software Engineer",
+      "startDate": "2022-09-30",
+      "endDate": "",
+      "summary": "Software Engineering Traineeship: a hands-on industrial grade training program lasting 8 weeks.\nC++ software design & implementation, testing with Robot Framework & Python, simulating hardware API for easier testing."
+    },
+    {
+      "name": "KU Leuven",
+      "position": "Programming Assistant",
+      "startDate": "2021-01-31",
+      "endDate": "2022-06-30",
+      "summary": "Adaptaion and implementation in C of circular and triple buffers for use in a mediator program."
+    },
+    {
+      "name": "Axiles Bionics",
+      "position": "Mechatronics Intern",
+      "startDate": "2020-07-31",
+      "endDate": "2020-09-30",
+      "summary": "Conceptual and detailed design of a test bench for a bionic ankle."
+    },
+    {
+      "name": "McGill University",
+      "position": "Conceptual Design Mentor",
+      "startDate": "2018-01-02",
+      "endDate": "2018-05-31",
+      "summary": "Guided students during the design phase of a project involving an Arduino-based remote-controlled vehicle."
+    }
+  ],
+  "education": [
+    {
+      "institution": "McGill University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelors of Engineering",
+      "startDate": "2014-09-01",
+      "endDate": "2018-05-01"
+    },
+    {
+      "institution": "Universidad de Los Andes",
+      "area": "Mechanical Engineering",
+      "studyType": "Exchange Semester",
+      "startDate": "2017-01-31",
+      "endDate": "2017-05-31"
+    },
+    {
+      "institution": "KU Leuven",
+      "area": "Mechanical Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2019-09-30",
+      "summary": "Completed all the coursework towards a Master degree, focus on Robotics & Mechatronics."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["C","C++","Python"]
+    },
+    {
+      "name": "Environment",
+      "keywords": ["Git", "Linux", "Docker"]
+    },
+    {
+      "name": "Additional",
+      "keywords": ["Matlab/Simulink","SolidWorks","OpenSCAD","3D Printing"]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "A2",
+      "language": "Dutch"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "French"
+    },
+    {
+      "fluency": "B2",
+      "language": "Portuguese"
+    },
+    {
+      "fluency": "C1",
+      "language": "Spanish"
+    }
+  ]
+}
